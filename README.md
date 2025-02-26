@@ -1,2 +1,2 @@
-# Curso-Técnico
+# Curso-Tecnico
 Desenvolvimento de Sistemas!!!
